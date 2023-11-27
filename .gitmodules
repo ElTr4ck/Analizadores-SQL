@@ -1,0 +1,6 @@
+[submodule "AnalizadorASA"]
+	path = AnalizadorASA
+	url = https://github.com/SaidHoff/ASA.git
+[submodule "AnalizadorDR"]
+	path = AnalizadorDR
+	url = https://github.com/ElTr4ck/Analizador-Sintactico-DR-SQL.git
