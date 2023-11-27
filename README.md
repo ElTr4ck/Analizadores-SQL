@@ -4,3 +4,8 @@ Se incluyen los enlaces a:
 - Analizador Sintactico Descendente Recursivo
 - Analizador Sintactico Descendente Iterativo
 - Analizador Sintactico Ascendente
+
+## Alumnos que presentan:
+- Gutierrez Martinez Rodrigo Jozafat
+- Meza Diaz Arturo Rodrigo
+- Sigala Morales Said
